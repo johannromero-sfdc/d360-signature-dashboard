@@ -1,0 +1,14 @@
+[
+  { "id": "acc-1", "name": "Acme Corp", "arr": 120000, "healthScore": 88, "renewalDate": "2026-11-15", "openCtas": 1, "lastContactDate": "2026-05-28", "csm": "Johann Romero" },
+  { "id": "acc-2", "name": "Globex Industries", "arr": 85000, "healthScore": 72, "renewalDate": "2026-08-01", "openCtas": 3, "lastContactDate": "2026-05-20", "csm": "Johann Romero" },
+  { "id": "acc-3", "name": "Initech Solutions", "arr": 200000, "healthScore": 35, "renewalDate": "2026-07-10", "openCtas": 5, "lastContactDate": "2026-04-30", "csm": "Johann Romero" },
+  { "id": "acc-4", "name": "Umbrella LLC", "arr": 45000, "healthScore": 91, "renewalDate": "2026-12-20", "openCtas": 0, "lastContactDate": "2026-06-01", "csm": "Johann Romero" },
+  { "id": "acc-5", "name": "Soylent Corp", "arr": 310000, "healthScore": 22, "renewalDate": "2026-06-30", "openCtas": 7, "lastContactDate": "2026-04-15", "csm": "Johann Romero" },
+  { "id": "acc-6", "name": "Vandelay Industries", "arr": 150000, "healthScore": 68, "renewalDate": "2026-09-05", "openCtas": 2, "lastContactDate": "2026-05-25", "csm": "Johann Romero" },
+  { "id": "acc-7", "name": "Bluth Company", "arr": 95000, "healthScore": 79, "renewalDate": "2026-10-18", "openCtas": 1, "lastContactDate": "2026-05-30", "csm": "Johann Romero" },
+  { "id": "acc-8", "name": "Dunder Mifflin", "arr": 60000, "healthScore": 44, "renewalDate": "2026-07-25", "openCtas": 4, "lastContactDate": "2026-05-05", "csm": "Johann Romero" },
+  { "id": "acc-9", "name": "Pied Piper", "arr": 175000, "healthScore": 55, "renewalDate": "2026-08-30", "openCtas": 2, "lastContactDate": "2026-05-18", "csm": "Johann Romero" },
+  { "id": "acc-10", "name": "Hooli Inc", "arr": 500000, "healthScore": 83, "renewalDate": "2026-11-01", "openCtas": 1, "lastContactDate": "2026-06-02", "csm": "Johann Romero" },
+  { "id": "acc-11", "name": "Massive Dynamic", "arr": 240000, "healthScore": 61, "renewalDate": "2026-09-20", "openCtas": 3, "lastContactDate": "2026-05-12", "csm": "Johann Romero" },
+  { "id": "acc-12", "name": "Cyberdyne Systems", "arr": 380000, "healthScore": 18, "renewalDate": "2026-06-15", "openCtas": 9, "lastContactDate": "2026-04-01", "csm": "Johann Romero" }
+]

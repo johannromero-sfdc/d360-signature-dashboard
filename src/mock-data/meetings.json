@@ -1,0 +1,9 @@
+[
+  { "id": "mtg-1", "accountId": "acc-5", "title": "Soylent Corp — Adoption Plan Kickoff", "startTime": "2026-06-03T09:00:00Z", "durationMin": 60 },
+  { "id": "mtg-2", "accountId": "acc-12", "title": "Cyberdyne Systems — Emergency Health Review", "startTime": "2026-06-03T11:00:00Z", "durationMin": 30 },
+  { "id": "mtg-3", "accountId": "acc-6", "title": "Vandelay Industries — New Stakeholder Walkthrough", "startTime": "2026-06-03T14:00:00Z", "durationMin": 45 },
+  { "id": "mtg-4", "accountId": "acc-3", "title": "Initech Solutions — PM Introduction Call", "startTime": "2026-06-04T10:00:00Z", "durationMin": 45 },
+  { "id": "mtg-5", "accountId": "acc-8", "title": "Dunder Mifflin — SSO Resolution Sync", "startTime": "2026-06-05T13:00:00Z", "durationMin": 30 },
+  { "id": "mtg-6", "accountId": "acc-2", "title": "Globex Industries — Phase 2 Rollout Kickoff", "startTime": "2026-06-06T09:00:00Z", "durationMin": 60 },
+  { "id": "mtg-7", "accountId": "acc-9", "title": "Pied Piper — Analytics Add-on Demo", "startTime": "2026-06-09T15:00:00Z", "durationMin": 60 }
+]
