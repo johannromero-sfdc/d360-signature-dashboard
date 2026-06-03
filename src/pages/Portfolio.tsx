@@ -70,7 +70,7 @@ export function Portfolio() {
               <Pie data={pieData} cx="50%" cy="50%" innerRadius={55} outerRadius={80} dataKey="value" paddingAngle={3}>
                 {pieData.map(entry => <Cell key={entry.name} fill={entry.color} />)}
               </Pie>
-              <Tooltip formatter={(v: number, n: string) => [`${v} accounts`, n]} />
+              <Tooltip formatter={(v) => [`${v} accounts`]} />
             </PieChart>
           </ResponsiveContainer>
           <div className="flex flex-col gap-1.5 mt-2">
